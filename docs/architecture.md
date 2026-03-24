@@ -22,9 +22,9 @@ User[User Resume Upload]
 UI[Gradio UI Layer]
 Parser[Resume Parsing & Cleaning]
 Encoder[Dual Encoder Transformer]
-EmbedIndex[Vector Index (FAISS)]
-Jobs[(Job Dataset)]
-Post[Post‑processing Logic]
+EmbedIndex[Vector Index - FAISS]
+Jobs[Job Dataset]
+Post[Post Processing Logic]
 Viz[Insight Visualization]
 
 User --> UI
