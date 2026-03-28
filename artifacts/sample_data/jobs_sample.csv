@@ -1,0 +1,5 @@
+job_id,title,description,skills_raw,domain,location
+job_001,Python Backend Engineer,"Build backend APIs, work with PostgreSQL, Docker, and AWS, and collaborate on production services.","python|fastapi|postgresql|docker|aws","backend","Bengaluru"
+job_002,Data Analyst,"Analyze business data using SQL, Excel, and dashboards. Communicate insights to stakeholders.","sql|excel|power bi|analytics","analytics","Remote"
+job_003,Machine Learning Engineer,"Train and deploy ML models with Python, PyTorch, pandas, and cloud tooling.","python|pytorch|pandas|mlops|aws","machine_learning","Hyderabad"
+job_004,Frontend React Developer,"Build responsive web apps using React, TypeScript, CSS, and REST APIs.","react|typescript|css|javascript|rest","frontend","Pune"

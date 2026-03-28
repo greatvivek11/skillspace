@@ -1,0 +1,4 @@
+resume_id,raw_text,skills_raw,target_domain
+resume_001,"Software engineer with 3 years building Python APIs, Dockerized services, and relational database workflows.","python|docker|postgresql|api","backend"
+resume_002,"Analyst experienced in SQL reporting, Excel automation, dashboarding, and presenting trends to business teams.","sql|excel|dashboard|analytics","analytics"
+resume_003,"Engineer with experience in PyTorch experimentation, pandas pipelines, cloud deployment, and ML workflows.","python|pytorch|pandas|aws","machine_learning"

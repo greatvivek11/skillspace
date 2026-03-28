@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+
+artifacts/processed/
+artifacts/embeddings/
+artifacts/index/
+artifacts/models/
+artifacts/tmp/
+
+*.pyc
+*.pyo
+*.pyd

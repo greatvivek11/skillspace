@@ -1,0 +1,18 @@
+skill,aliases,category
+python,python,programming
+fastapi,fastapi,backend
+postgresql,postgres|postgresql,database
+docker,docker,devops
+aws,aws|amazon web services,cloud
+sql,sql,database
+excel,excel,analytics
+power bi,powerbi|power bi,analytics
+analytics,analytics|analysis,analytics
+pytorch,pytorch,ml
+pandas,pandas,data
+mlops,mlops|model deployment,ml
+react,react,frontend
+typescript,typescript,frontend
+css,css,frontend
+javascript,javascript|js,frontend
+rest,rest|rest api|restful apis,backend

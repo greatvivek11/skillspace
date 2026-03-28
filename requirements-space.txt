@@ -1,0 +1,8 @@
+torch
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+pydantic
+python-dotenv
+pyarrow

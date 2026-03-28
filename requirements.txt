@@ -1,0 +1,14 @@
+torch
+sentence-transformers
+datasets
+huggingface_hub
+faiss-cpu
+pandas
+numpy
+scikit-learn
+rapidfuzz
+gradio
+pydantic
+python-dotenv
+pyyaml
+pyarrow

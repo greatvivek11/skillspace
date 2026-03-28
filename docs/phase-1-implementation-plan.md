@@ -1,5 +1,36 @@
 # SkillSpace Phase 1 Implementation Plan (3–4 Week MVP)
 
+## Phase 1 Status Checklist
+
+### Completed
+
+- ✅ Working public Hugging Face Space deployed
+- ✅ Public dataset repo created and populated
+- ✅ Compact pretrained embedding baseline selected and implemented
+- ✅ Job corpus preprocessing pipeline implemented
+- ✅ Resume corpus preprocessing pipeline implemented
+- ✅ FAISS retrieval pipeline implemented
+- ✅ Deterministic skill extraction and skill-gap reasoning implemented
+- ✅ Gradio app implemented with HR-facing demo flow
+- ✅ Retrieval metrics script implemented with Recall@K and MRR
+- ✅ Local and Space deployment paths documented
+
+### Partially Complete / Optional Polish
+
+- ✅ Resume input via pasted text
+- ✅ Resume input via uploaded `.txt` file
+- ✅ Export results as JSON
+- ⬜ Debug/latency panel for interactive inspection
+- ⬜ `docs/phase-1-results.md` metrics write-up
+
+### Deferred To Phase 2
+
+- ⬜ Custom tokenizer
+- ⬜ From-scratch dual-encoder training
+- ⬜ Neural reranker
+- ⬜ Larger-scale fine-tuning on expanded curated data
+- ⬜ Richer recruiter workflow features beyond matching + skill gaps
+
 ## 1) Phase 1 Goal
 
 Ship a portfolio-ready vertical slice that works end-to-end:
