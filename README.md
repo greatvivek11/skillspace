@@ -95,6 +95,15 @@ This project focuses on:
 
 ---
 
+
+## 🗺️ Planning Docs
+
+- [Feasibility Assessment](docs/feasibility-assessment.md)
+- [Phase 1 Implementation Plan](docs/phase-1-implementation-plan.md)
+- [Phase 2 Implementation Plan](docs/phase-2-implementation-plan.md)
+
+---
+
 ## 📌 Project Status
 
 Currently in **architecture & data design phase**.
